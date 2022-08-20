@@ -13,10 +13,10 @@ Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-
  ~/Library/Developer/Xcode/iOS\ Device\ Logs <br>
 
 ### Usage: <br>
-    1. download the shell file / copy the code inside shell <br>
-    2. cd to the file that you saved the shell <br>
-    3. chmod u+x RemoveXcodeCache.sh <br>
-    4. sudo ./RemoveXcodeCache.sh <br>
+    1. download the shell file / copy the code inside shell 
+    2. open the terminal 
+    3. chmod u+x RemoveXcodeCache.sh 
+    4. sudo ./RemoveXcodeCache.sh 
 
 ### Warning <br>
     you should read the script line by line before you run it !!!!
