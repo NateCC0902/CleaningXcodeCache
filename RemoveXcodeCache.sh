@@ -21,7 +21,7 @@ if [[ $flag == "Y" || $flag == "y" ]]; then
     echo "removed successfully:  ~/Library/Developer/Xcode/DerivedData"
   fi
   
-  if [ -e~/Library/Developer/Xcode/Archives ]; then
+  if [ -e ~/Library/Developer/Xcode/Archives ]; then
     cd ~/Library/Developer/Xcode/Archives
     rm -r *
     echo "removed successfully:  ~/Library/Developer/Xcode/Archives"
