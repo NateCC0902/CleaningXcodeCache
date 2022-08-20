@@ -14,17 +14,17 @@ Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-
 
 ### Usage: <br>
  Remove Caches: <br>
-    1. download the **RemoveXcodeCache.sh** file 
-    2. open the terminal 
-    3. **chmod u+x RemoveXcodeCache.sh** 
-    4. **sudo ./RemoveXcodeCache.sh** 
+    1. download the **RemoveXcodeCache.sh** file <br>
+    2. open the terminal <br>
+    3. **chmod u+x RemoveXcodeCache.sh** <br>
+    4. **sudo ./RemoveXcodeCache.sh** <br>
 
  Remove Previews: <br>
-    1. download the **RemoveSimulator.sh** file 
-    2. open the terminal 
-    3. **chmod u+x RemoveSimulator.sh** 
-    4. **sudo ./RemoveSimulator.sh**
-    5. restart Xcode 
+    1. download the **RemoveSimulator.sh** file <br>
+    2. open the terminal <br>
+    3. **chmod u+x RemoveSimulator.sh** <br>
+    4. **sudo ./RemoveSimulator.sh**<br>
+    5. restart Xcode <br>
 
 ### Warning <br>
     you should read the script line by line before you run it !!!!
