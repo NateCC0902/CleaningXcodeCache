@@ -1,5 +1,5 @@
 ### What is project for?
-This shell file is for removing junk of Xcode. <br>
+Those shell files are for removing junk of Xcode. <br>
 
 Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-clean-up/ << <br>
 
