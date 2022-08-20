@@ -1,4 +1,4 @@
-#### What is project for?
+### What is project for?
 This shell file is for removing junk of Xcode. <br>
 
 Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-clean-up/ << <br>
@@ -11,8 +11,6 @@ Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-
  ~/Library/Developer/Xcode/DerivedData <br>
  ~/Library/Developer/Xcode/Archives <br>
  ~/Library/Developer/Xcode/iOS\ Device\ Logs <br>
-
-~/Library/Caches/ IS NOT INCLUDED 
 
 ### Usage: <br>
     1. download the shell file / copy the code inside shell <br>
