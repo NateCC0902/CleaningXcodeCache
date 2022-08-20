@@ -8,7 +8,7 @@ if [[ $flag == "Y" || $flag == "y" ]]; then
     rm -r *
     killall -9 com.apple.CoreSimulator.CoreSimulatorService
     echo "removed successfully: ~/Library/Developer/Xcode/UserData/Previews"
-    echo "you need to restart Xcode"
+    echo "need to restart Xcode"
 
   fi
 else
