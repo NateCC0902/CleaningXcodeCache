@@ -13,10 +13,18 @@ Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-
  ~/Library/Developer/Xcode/iOS\ Device\ Logs <br>
 
 ### Usage: <br>
-    1. download the shell file / copy the code inside shell 
+ Remove Caches: <br>
+    1. download the **RemoveXcodeCache.sh** file 
     2. open the terminal 
-    3. chmod u+x RemoveXcodeCache.sh 
-    4. sudo ./RemoveXcodeCache.sh 
+    3. **chmod u+x RemoveXcodeCache.sh** 
+    4. **sudo ./RemoveXcodeCache.sh** 
+
+ Remove Previews: <br>
+    1. download the **RemoveSimulator.sh** file 
+    2. open the terminal 
+    3. **chmod u+x RemoveSimulator.sh** 
+    4. **sudo ./RemoveSimulator.sh**
+    5. restart Xcode 
 
 ### Warning <br>
     you should read the script line by line before you run it !!!!
