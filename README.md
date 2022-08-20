@@ -13,7 +13,7 @@ RemoveXcodeCache: <br>
  ~/Library/Developer/Xcode/iOS\ Device\ Logs  <br>
 
 RemoveSimulator: <br>
- ~/Library/Developer/Xcode/UserData/Previews  <br>
+ ~/Library/Developer/Xcode/UserData/Previews <br>
 
 ### Usage: <br>
  Remove Caches: <br>
