@@ -5,12 +5,15 @@ Based on YoungSeon.Ahn's method  >> https://lovemewithoutall.github.io/it/xcode-
 
 
 ### Remove including: <br>
-
+RemoveXcodeCache: <br>
  ~/Library/Developer/CoreSimulator/Devices <br>
  ~/Library/Developer/CoreSimulator/Caches/dyld <br>
  ~/Library/Developer/Xcode/DerivedData <br>
  ~/Library/Developer/Xcode/Archives <br>
  ~/Library/Developer/Xcode/iOS\ Device\ Logs <br>
+
+RemoveSimulator: <br>
+ ~/Library/Developer/Xcode/UserData/Previews <br>
 
 ### Usage: <br>
  Remove Caches: <br>
