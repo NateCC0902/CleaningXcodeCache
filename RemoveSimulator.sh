@@ -1,5 +1,5 @@
 #! /bin/bash
-echo "you may redownload the simulators in Xcode but it may takes 10 ~ 20 mins"
+echo "you may redownload the simulators in Xcode and it may takes 10 ~ 20 mins"
 read -p "Continue to remove Xcode's Simulator? 'y' or 'n': " flag
 
 if [[ $flag == "Y" || $flag == "y" ]]; then
